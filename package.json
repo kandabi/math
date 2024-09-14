@@ -1,7 +1,0 @@
-{
-	"dependencies": {
-		"@types/three": "^0.167.1",
-		"prettier": "^3.3.3",
-		"three": "^0.167.1"
-	}
-}
